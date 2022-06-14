@@ -1,3 +1,7 @@
+!!!!VIDEO OF PRJOJECT: https://www.youtube.com/watch?v=PqQ40y2P2W8 !!!
+
+
+
 To test, I sent the data from arduino to comport since i dont have the data yet from the obc/com
 
 the first string of data sent to com port is
